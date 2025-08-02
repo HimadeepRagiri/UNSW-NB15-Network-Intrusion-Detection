@@ -104,10 +104,6 @@ To run this project, you need the following Python libraries:
 2. Install the required libraries using `pip install -r requirements.txt`.
 3. Run the Python script or Jupyter notebook to train the model and evaluate the results.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgments
 
 - The dataset used in this project was provided by [UNSW](https://www.unsw.edu.au/).
